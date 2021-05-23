@@ -12,10 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome, stranger in the World!
-# I'm Alessandro, but it could be Ale.
-# <p align="center">centered text</p>
-# Now we are no longer strangers
+
+# <p align="center">Welcome, stranger in the World!</p>
+# <p align="center">I'm Alessandro, but it could be Ale.</p>
+# <p align="center">Now we are no longer strangers!</p>
 
 
 
