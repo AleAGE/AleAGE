@@ -13,16 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Welcome, stranger in the world! I'm Alessandro, but it could be Ale.
-# Now we are no longer strangers
+#                Now we are no longer strangers
 
 
-:computer: I'm Front-End Developer!
+:computer: I'm Developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I’m from Brazil. I live in Brazil, state of São Paulo in the city of Parapuã.
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2021 Goals: be useful to our world, using my skills.
 
  
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AleAGE)](https://github.com/AleAGE)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/alessandro-ap-de-godoy-esteves-7489963b/)]( https://www.linkedin.com/in/alessandro-ap-de-godoy-esteves-7489963b/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/alessandro-ap-de-godoy-esteves-7489963b)]( https://www.linkedin.com/in/alessandro-ap-de-godoy-esteves-7489963b)
 
 
 
