@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 # Welcome, stranger in the World!
 # I'm Alessandro, but it could be Ale.
-# .~.~ Now we are no longer strangers o/o/o/o/o/o/o/
+# <p align="center">centered text</p>
+# Now we are no longer strangers
 
 
 
