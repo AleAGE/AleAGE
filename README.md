@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 :computer: I'm a Developer!
 
-:house_with_garden: I’m from Brazil. I live in Brazil, in São Paulo state,in the Parapuã City.
+:house_with_garden: I’m from Brazil. I live in Brazil in São Paulo state, in the Parapuã City.
 
 :books: I'm always learning, at the moment: Delphi OOP; Python.
 
