@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome, stranger in the world! I'm Alessandro, but it could be Ale.
+# Welcome, stranger in the World!
+# I'm Alessandro, but it could be Ale.
 # ------------------ Now we are no longer strangers ------------------
 
 
