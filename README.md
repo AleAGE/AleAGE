@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 
 :house_with_garden: I’m from Brazil. I live in Brazil, state of São Paulo in the Parapuã City.
 
-:books: I’m currently learning everything.
+:books: I'm always learning. At the moment: Delphi OOP; Python.
 
 :outbox_tray: 2021 Goals: be useful to our world, using my skills.
 
- 
+💬 Do you want to ask me something? ale.g.esteves@gmail.com 
+
 
 ## About me
 
@@ -34,7 +35,6 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-ap-de-godoy-esteves-7489963b)](https://www.linkedin.com/in/alessandro-ap-de-godoy-esteves-7489963b)
 
 
+# Thanks for visiting.
 
-- Thanks for visiting.
-
-- Enjoy it! E tamo junto! o/ ;)
+- Enjoy it! E tamo junto! o/ ;) 😄 
