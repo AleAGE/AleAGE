@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AleAGE)](https://github.com/AleAGE)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-ap-de-godoy-esteves-7489963b)](https://www.linkedin.com/in/alessandro-ap-de-godoy-esteves-7489963b)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/AleAGE)](https://github.com/AleAGE)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-ap-de-godoy-esteves-7489963b)](https://www.linkedin.com/in/alessandro-ap-de-godoy-esteves-7489963b)
 
 
 # Thanks for visiting.
